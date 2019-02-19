@@ -1,7 +1,7 @@
 # SICP-implementation
 A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))) implementation of demo programs in [SICP](https://web.mit.edu/alexmv/6.037/sicp.pdf) ([*Structure and Interpretation of Computer Programs, 2nd edition*](https://book.douban.com/subject/1148282/))
 ## Contents
-### 1 Building Abstractions with Procedures 1
+### 1 Building Abstractions with Procedures. . . .1
 - 1.1 The Elements of Programming . . . . . . . . . . . . . . 6
     - 1.1.1 Expressions . . . . . . . . . . . . . . . . . . . . 7
     - 1.1.2 Naming and the Environment . . . . . . . . . . 10
@@ -23,7 +23,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
     - 1.3.2 Constructing Procedures Using lambda . . . . . 83
     - 1.3.3 Procedures as General Methods . . . . . . . . . 89
     - 1.3.4 Procedures as Returned Values . . . . . . . . . 97
-### 2 Building Abstractions with Data 107
+### 2 Building Abstractions with Data. . . .107
 - 2.1 Introduction to Data Abstraction . . . . . . . . . . . . . 112
     - 2.1.1 Example: Arithmetic Operations for Rational Numbers . . . . . . . . . . . . . . . 113
     - 2.1.2 Abstraction Barriers . . . . . . . . . . . . . . . 118
@@ -47,7 +47,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
     - 2.5.1 Generic Arithmetic Operations . . . . . . . . . 255
     - 2.5.2 Combining Data of Different Types . . . . . . . 262
     - 2.5.3 Example: Symbolic Algebra . . . . . . . . . . . 274
-### 3 Modularity, Objects, and State 294
+### 3 Modularity, Objects, and State. . . .294
 - 3.1 Assignment and Local State . . . . . . . . . . . . . . . 296
     - 3.1.1 Local State Variables . . . . . . . . . . . . . . . 297
     - 3.1.2 The Benefits of Introducing Assignment . . . . 305
@@ -72,7 +72,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
     - 3.5.3 Exploiting the Stream Paradigm . . . . . . . . . 453
     - 3.5.4 Streams and Delayed Evaluation . . . . . . . . 470
     - 3.5.5 Modularity of Functional Programs and Modularity of Objects . . . . . . . . . . . . 479
-### 4 Metalinguistic Abstraction 487
+### 4 Metalinguistic Abstraction. . . .487
 - 4.1 The Metacircular Evaluator . . . . . . . . . . . . . . . . 492
     - 4.1.1 The Core of the Evaluator . . . . . . . . . . . . 495
     - 4.1.2 Representing Expressions . . . . . . . . . . . . 501
@@ -102,7 +102,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
       - 4.4.4.6 Stream Operations . . . . . . . . . . 654
       - 4.4.4.7 Query Syntax Procedures . . . . . . . 656
       - 4.4.4.8 Frames and Bindings . . . . . . . . . 659
-### 5 Computing with Register Machines 666
+### 5 Computing with Register Machines. . . .666
 - 5.1 Designing Register Machines . . . . . . . . . . . . . . . 668
     - 5.1.1 A Language for Describing Register Machines . 672
     - 5.1.2 Abstraction in Machine Design . . . . . . . . . 678
