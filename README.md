@@ -11,7 +11,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
     - 1.1.6 Conditional Expressions and Predicates . . . . 22
     - 1.1.7 Example: Square Roots by Newton’s Method . . 28
     - 1.1.8 Procedures as Black-Box Abstractions . . . . . 33
-- 1.2 Procedures and the Processes ey Generate . . . . . . 40
+- 1.2 Procedures and the Processes They Generate . . . . . . 40
     - 1.2.1 Linear Recursion and Iteration . . . . . . . . . 41
     - 1.2.2 Tree Recursion . . . . . . . . . . . . . . . . . . 47
     - 1.2.3 Orders of Growth . . . . . . . . . . . . . . . . . 54
@@ -59,7 +59,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
     - 3.2.4 Internal Definitions . . . . . . . . . . . . . . . . 337
 - 3.3 Modeling with Mutable Data . . . . . . . . . . . . . . . 341
     - 3.3.1 Mutable List Structure . . . . . . . . . . . . . . 342
-    - 3.3.2 Representing eues . . . . . . . . . . . . . . . 353
+    - 3.3.2 Representing Queues . . . . . . . . . . . . . . . 353
     - 3.3.3 Representing Tables . . . . . . . . . . . . . . . 360
     - 3.3.4 A Simulator for Digital Circuits . . . . . . . . . 369
     - 3.3.5 Propagation of Constraints . . . . . . . . . . . 386
@@ -91,7 +91,7 @@ A [racket](https://www.racket-lang.org/) (based on the [Scheme](https://en.wikip
     - 4.3.3 Implementing the amb Evaluator . . . . . . . . 578
 - 4.4 Logic Programming . . . . . . . . . . . . . . . . . . . . 594
     - 4.4.1 Deductive Information Retrieval . . . . . . . . 599
-    - 4.4.2 How the ery System Works . . . . . . . . . 615
+    - 4.4.2 How the Query System Works . . . . . . . . . 615
     - 4.4.3 Is Logic Programming Mathematical Logic? . . 627
     - 4.4.4 Implementing the ery System . . . . . . . . 635
       - 4.4.4.1 The Driver Loop and Instantiation . . 636
